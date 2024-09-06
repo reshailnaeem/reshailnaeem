@@ -10,7 +10,7 @@ def reshail_skills(level='🔥🔥🔥'):
     return skills
 print(reshail_skills())
 ```
-### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
+### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" height="20" />
 
 People often describe me as innovative, analytical, and a problem-solver. To me, these were always character traits and nothing more. But then I discovered data science and machine learning. Turns out, there's a whole field out there where I can help change the world by simply being "me".
 
